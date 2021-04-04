@@ -5,8 +5,9 @@ In this analysis we used Tableau to create various visualizations based on CitiB
 
 ## Results 
 
-
-![pic1](Images/.png)
+1) Top Starting Locations
+![pi1](Images/Top Starting Locations.png)
+![pic 1](Images/Top Starting Locations.png)
 
 ## Summary 
 
