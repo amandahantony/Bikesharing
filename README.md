@@ -43,8 +43,8 @@ The data and visualizations show that in the month of August a whopping 2,344,22
 
 ### Additional Suggestions for Visualization
 
-1) We can look at which specific date in August had the highest activity and correlate that to any events or activities that were happening in the city on that day. Additional questions can be asked based on the findings such as, where there enough bikes to accomodate the higher volumes? 
-2) We can also look at where each age groups start their rides by graphing birth year and start location. For example, of the riders who start their trip around Pershing Square, are most of them young, middle-aged etc. 
+1) We can look at which specific date in August had the highest activity and correlate that to any events or activities that were happening in the city on that day. Additional questions can be asked based on the findings such as, were there enough bikes to accomodate the higher volumes? 
+2) We can also look at where each age group starts their rides by graphing birth year and start location. For example, of the riders who start their trip around Pershing Square, are most of them young, middle-aged etc. 
 
 &#8595; &#8595; &#8595;
 
