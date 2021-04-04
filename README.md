@@ -7,6 +7,10 @@ In this analysis we used Tableau to create various visualizations based on CitiB
 
 ![Top Starting Locations](Images/Top_Starting_Locations.png)
 
+The above map shows that the darker and larger purple circles have a higher volume of Citibike riders starting their trip. Some locations such as 12th Ave (NW corner), Pershing Square (NE), West St. (SW corner), and E 17 St. are hotspots for starting CitiBike rides. These areas may have more tourists or a higher population. 
+
+![Gender Breakdown](Images/Gender_Breakdown.png)
+
 
 ## Summary 
 
