@@ -1,7 +1,7 @@
 # Bikesharing
 
 ## Overview of the Analysis 
-In this analysis we used Tableau to create various visualizations based on CitiBike bike-sharing data. The visualizations are used to understand trends and CitiBike business in New York. From there, a solid business proposal can be created towards implementing a bike-sharing program in Des Moines. 
+In this analysis we used Tableau to create various visualizations based on CitiBike bike-sharing data. The visualizations are used to understand trends and CitiBike business in New York. From there, a solid business proposal can be created towards implementing a similar bike-sharing program in Des Moines. 
 
 ## Results 
 
