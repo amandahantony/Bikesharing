@@ -7,9 +7,14 @@ In this analysis we used Tableau to create various visualizations based on CitiB
 
 ![Top Starting Locations](Images/Top_Starting_Locations.png)
 
-The above map shows that the darker and larger purple circles have a higher volume of Citibike riders starting their trip. Some locations such as 12th Ave (NW corner), Pershing Square (NE), West St. (SW corner), and E 17 St. are hotspots for starting CitiBike rides. These areas may have more tourists or a higher population. 
+The map above shows that the darker and larger purple circles have a higher volume of Citibike riders starting their trip. Some locations such as 12th Ave (NW corner), Pershing Square (NE), West St. (SW corner), and E 17 St. are hotspots for starting CitiBike rides. These areas may have more tourists or a higher population. 
+
 ----
 ![Gender Breakdown](Images/Gender_Breakdown.png)
+
+The pie chart above shows that the majority of CitiBike users are male. Of the total 2,344,224 CitiBike riders, 65% are male, 25% are female, and 10% are of unknown gender.
+
+----
 
 
 ## Summary 
