@@ -48,6 +48,6 @@ The data and visualizations show that in the month of August a whopping 2,344,22
 
 &#8595; &#8595; &#8595;
 
-[Link to NYC CitiBike Tableau Story](https://public.tableau.com/shared/RYCN7S53K?:display_count=y&:origin=viz_share_link)
+[Link to NYC CitiBike Tableau Story](https://public.tableau.com/shared/9XFF45CWY?:display_count=n&:origin=viz_share_link)
 
 
