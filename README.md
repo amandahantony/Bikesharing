@@ -26,6 +26,7 @@ The heatmap above shows that both males and females show similar patterns in ter
 
 ----
 ![User Trips](Images/User_Trips.png)
+
 The heatmap above shows the comparison of riders based on gender and their usertype: customer or subscriber. Out of all the female Citibike users, more are subsribers rather than customers. The same is true for males. Out of all the unknown gender users, more are customers rather than subscribers. Male subscribers take significantly more bike trips than females and unknown gender subscribers. Of all the male and female subscribers, a higher proportion use Citibike on Thursdays. Of all the unknown gender customers, a higher proprotion use Citibike on Saturdays. 
 
 ----
