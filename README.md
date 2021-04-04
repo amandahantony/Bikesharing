@@ -47,6 +47,7 @@ The data and visualizations show that in the month of August a whopping 2,344,22
 2) We can also look at where each age groups start their rides by graphing birth year and start location. For example, of the riders who start their trip around Pershing Square, are most of them young, middle-aged etc. 
 
 &#8595; &#8595; &#8595;
+
 [Link to NYC CitiBike Tableau Story](https://public.tableau.com/shared/G9HHDW6Y9?:display_count=n&:origin=viz_share_link)
 
 
