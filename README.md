@@ -38,7 +38,13 @@ The graph above shows that the majority of bike rides taken by male riders are c
 
 ## Summary 
 
-The data and visualizations show that in the month of August a whopping 2,344,224 Citibike rides were taken. Some areas such as Pershing Square and 12th Ave. are hotspots for starting rides. These areas may have more tourists or a higher population, therefore requiring more bikes. The visualizations also show that the majority of Citibike trips are short (around 5 minutes), suggesting that most users are travelling short distances to local areas. However, this makes sense because most things and places and nearby when living in the city. During the weekdays, most rides begin around 7 to 9 am, as well as 5 to 6 pm. These are typical hours of when the workday begins and ends. This data suggests that most weekday users are taking trips to and from work. On weekends, activity is high and consistent through the day between 9 am and 7pm. 
+The data and visualizations show that in the month of August a whopping 2,344,224 Citibike rides were taken. Some areas such as Pershing Square and 12th Ave. are hotspots for starting rides. These areas may have more tourists or a higher population, therefore requiring more bikes. The visualizations also show that the majority of Citibike trips are short (around 5 minutes), suggesting that most users are travelling short distances to local areas. However, this makes sense because most things and places are nearby when living in the city. During the weekdays, most rides begin around 7 to 9 am, as well as 5 to 6 pm. These are typical hours of when the workday begins and ends. This data suggests that most weekday users are taking trips to and from work. On weekends, activity is high and consistent through the day between 9 am and 7pm. Most weekend riders may utilize Citibike for leisure. 
+
+### Additional Suggestions for Visualization
+
+1) We can look at which specific date in August had the highest activity and correlate that to any events of activities that were happening in the city on that day. Additional questions can be asked based on the findings such as, where there enough bikes to accomodate the higher volumes? 
+2) 
+
 [Link to NYC CitiBike Tableau Story](https://public.tableau.com/shared/G9HHDW6Y9?:display_count=n&:origin=viz_share_link)
 
--we can look at which specific date in August had the highest activity and correlate that to any events of activities that were happening in the city on that day
+
